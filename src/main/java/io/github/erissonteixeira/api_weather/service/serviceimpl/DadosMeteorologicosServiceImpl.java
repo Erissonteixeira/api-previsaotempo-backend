@@ -1,4 +1,4 @@
-package io.github.erissonteixeira.serviceimpl;
+package io.github.erissonteixeira.api_weather.service.serviceimpl;
 
 import io.github.erissonteixeira.api_weather.dto.DadosMeteorologicosRequestDto;
 import io.github.erissonteixeira.api_weather.dto.DadosMeteorologicosResponseDto;
